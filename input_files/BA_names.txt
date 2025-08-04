@@ -1,0 +1,113 @@
+original_name	Retention Time	renamed
+Ala-bMCA_17791	6.892	Ala-MCA
+Ala-CA_17790	9.158	Ala-CA
+Arg-DCA_22370	10.592	Arg-DCA
+Arg-bMCA_23369	5.348	Arg-MCA
+Arg-CA_23368	7.932	Arg-CA
+Asn-CA_20646	7.516	Asn-CA
+Gln-CA_21582	7.679	Gln-CA
+glycochenodeoxycholic acid_15880	7.978	glycochenodeoxycholic acid
+glycochenodeoxycholic acid_15879	10.678	glycochenodeoxycholic acid
+glycochenodeoxycholic acid_15877	11.029	glycochenodeoxycholic acid
+glycocholic acid_16907	6.033	glycocholic acid
+glycocholic acid_14596	6.153	glycocholic acid
+glycohyocholic acid_15732	6.163	glycohyocholic acid
+glycocholic acid_14595	8.562	glycocholic acid
+glycocholic acid_15733	8.565	glycocholic acid
+glycocholic acid_16904	8.587	glycocholic acid
+His-CA_22165	7.723	His-CA
+Ile-Leu-gMCA_20581	10.226	Ile-Leu-MCA
+Ile-Leu-CA_20580	11.439	Ile-Leu-CA
+Tauroursodeoxycholic Acid-d5_17020	7.173	Tauroursodeoxycholic Acid-d5
+Glycochenodeoxycholic Acid-d4_16135	7.935	Glycochenodeoxycholic Acid-d4
+Tauroursodeoxycholic Acid-d5_17019	9.839	Tauroursodeoxycholic Acid-d5
+Glycochenodeoxycholic Acid-d4_16136	10.677	Glycochenodeoxycholic Acid-d4
+Glycochenodeoxycholic Acid-d4_16134	11.026	Glycochenodeoxycholic Acid-d4
+Cholic Acid-d4 [M-3H2O+H]+_10104	11.282	Cholic Acid-d4 [M-3H2O+H]+
+Taurolithocholic Acid-d4_18309	11.3	Taurolithocholic Acid-d4
+Glycolithocholic Acid-d4_15094	11.549	Glycolithocholic Acid-d4
+Lys-bMCA_21589	5.223	Lys-MCA
+Lys-gMCA_21590	6.005	Lys-MCA
+Lys-CA_21586	7.833	Lys-MCA
+Lys-CA_21588	8.583	Lys-CA
+Met-gMCA_21769	8.202	Met-MCA
+Met-CA_21765	10.324	Met-CA
+Ornithine-CA_20652	7.844	Ornithine-CA
+Phe-bMCA_22813	9.685	Phe-MCA
+Phe-CA_22812	11.256	Phe-CA
+Ser-CA_18843	7.95	Ser-CA
+taurohyodeoxycholic acid_17912	5.932	taurohyodeoxycholic acid
+taurohyodeoxycholic acid_16765	5.945	taurohyodeoxycholic acid
+taurodeoxycholic acid_19112	5.947	taurodeoxycholic acid
+taurohyodeoxycholic acid_37538	7.117	taurohyodeoxycholic acid
+tauroursodeoxycholic acid_17906	7.125	tauroursodeoxycholic acid
+taurodeoxycholic acid_19111	7.134	taurodeoxycholic acid
+taurohyodeoxycholic acid_16761	7.174	taurohyodeoxycholic acid
+taurohyodeoxycholic acid_17910	7.293	taurohyodeoxycholic acid
+taurohyodeoxycholic acid_16763	7.301	taurohyodeoxycholic acid
+taurodeoxycholic acid_19109	7.328	taurodeoxycholic acid
+taurodeoxycholic acid_19113	7.543	taurodeoxycholic acid
+taurohyodeoxycholic acid_16764	7.784	taurohyodeoxycholic acid
+taurohyodeoxycholic acid_17908	7.911	taurohyodeoxycholic acid
+tauroursodeoxycholic acid_17913	9.261	tauroursodeoxycholic acid
+taurohyodeoxycholic acid_37537	9.787	taurohyodeoxycholic acid
+taurohyodeoxycholic acid_20550	9.836	taurohyodeoxycholic acid
+taurohyodeoxycholic acid_16762	9.84	taurohyodeoxycholic acid
+tauroursodeoxycholic acid_17907	9.842	tauroursodeoxycholic acid
+taurodeoxycholic acid_19110	9.846	taurodeoxycholic acid
+taurohyodeoxycholic acid_16760	10.364	taurohyodeoxycholic acid
+taurodeoxycholic acid_20555	10.365	taurodeoxycholic acid
+tauroursodeoxycholic acid_17909	10.366	tauroursodeoxycholic acid
+taurodeoxycholic acid_19107	10.369	taurodeoxycholic acid
+taurodeoxycholic acid_37539	10.37	taurodeoxycholic acid
+Taurocholic Acid-d4_20419	7.808	Taurocholic Acid-d4
+taurolithocholic acid_16902	11.302	taurolithocholic acid
+taurolithocholic acid_18046	11.305	taurolithocholic acid
+taurohyocholic acid_20159	0.864	taurohyocholic acid
+taurocholic acid_17776	3.202	taurocholic acid
+taurocholic acid_20157	3.221	taurocholic acid
+taurohyocholic acid_20160	3.97	taurohyocholic acid
+taurocholic acid_18979	4.337	taurocholic acid
+taurohyocholic acid_20153	4.548	taurohyocholic acid
+taurohyocholic acid_20152	5.301	taurohyocholic acid
+taurocholic acid_16621	5.339	taurocholic acid
+taurohyocholic acid_18983	5.355	taurohyocholic acid
+taurocholic acid_16624	6.09	taurocholic acid
+taurocholic acid_18984	6.139	taurocholic acid
+taurocholic acid_16625	6.525	taurocholic acid
+taurocholic acid_18981	6.554	taurocholic acid
+taurohyocholic acid_18977	6.705	taurohyocholic acid
+taurohyocholic acid_20154	6.731	taurohyocholic acid
+taurohyocholic acid_18975	7.084	taurohyocholic acid
+taurocholic acid_18976	7.502	taurocholic acid
+taurocholic acid_16620	7.708	taurocholic acid
+taurocholic acid_20155	7.764	taurocholic acid
+taurocholic acid_18978	7.861	taurocholic acid
+taurocholic acid_17778	8.248	taurocholic acid
+taurohyocholic acid_18980	12.308	taurohyocholic acid
+taurohyocholic acid_17780	12.31	taurohyocholic acid
+Thr-CA_19755	8.544	Thr-CA
+Trp-bMCA_25122	9.461	Trp-MCA
+Trp-CA_25121	11.142	Trp-CA
+Tyr-bMCA_23804	7.19	Tyr-MCA
+Tyr-CA_23803	9.299	Tyr-CA
+"methyl (R)-4-((3R,5S,7R,8S,9S,10S,13R,14R,17R)-3,7,14-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate_11881"	11.826	"methyl (R)-4-((3R,5S,7R,8S,9S,10S,13R,14R,17R)-3,7,14-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"
+deoxycholic acid_33153	11.892	deoxycholic acid
+deoxycholic acid_11114	11.897	deoxycholic acid
+"(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid_12021"	9.373	"(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"
+"(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid_12027"	10.004	"(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"
+hyocholic acid_10972	8.441	hyocholic acid
+hyocholic acid_10975	8.888	hyocholic acid
+hyocholic acid_10971	9.746	hyocholic acid
+hyocholic acid_34138	9.746	hyocholic acid
+hyocholic acid_10973	9.854	hyocholic acid
+hyocholic acid_34139	9.854	hyocholic acid
+hyocholic acid_34141	9.99	hyocholic acid
+hyocholic acid_10976	9.995	hyocholic acid
+hyocholic acid_34140	11.284	hyocholic acid
+"(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid_10974"	11.287	"(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"
+choloic acid [M-3H2O+H]+_9859	11.287	choloic acid [M-3H2O+H]+
+cholic acid_14672	11.288	cholic acid
+"(4R)-4-((3R,5S,7S,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid_12154"	11.304	"(4R)-4-((3R,5S,7S,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid"
+"methyl (4R)-4-((3R,5S,7R,9S,10S,13R,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate_15545"	12.18	"methyl (4R)-4-((3R,5S,7R,9S,10S,13R,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate"
+Val-CA_19625	10.853	Val-CA
